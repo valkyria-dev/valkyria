@@ -24,14 +24,11 @@ Table of Contents
 About The Project
 -----------------
 
-Valkyria is a simple HTTP server written in C++ that allows you to configure routes and settings using XML files. The server is designed with simplicity and ease of customization in mind. You can define routes, ports, root paths, and more without touching the C++ code.
-
-Of course, this project is a starting point, and you are encouraged to modify it according to your needs.
+Valkyria is a prototype web framework written in C++ that allows you to configure routes and settings using XML. The server is designed with simplicity and ease of customization in mind. You can define routes, ports, root paths, and more without even touching code.
 
 ### Built With
 
 *   C++
-*   XML Configuration
 
 Getting Started
 ---------------
@@ -43,6 +40,10 @@ Getting Started
 
 ### Installation
 
+You can download the latest version of the executable from the [Releases](https://github.com/valkyria-dev/valkyria/releases) page. Select the most recent version and download the corresponding executable file for your operating system (e.g., Windows, macOS, or Linux).
+
+### Developement
+
 1.  Clone the repo
     
         git clone https://github.com/valkyria-dev/valkyria.git
@@ -50,7 +51,7 @@ Getting Started
     
 2.  Build the server
     
-        make
+        g++ -pthread main.cpp -o server
     
 3.  Run the server
     
@@ -60,23 +61,21 @@ Getting Started
 Usage
 -----
 
-Valkyria is configured using XML files. Below is an example XML configuration (`config.xml`):
+Valkyria is configured using XML. Below is an example XML configuration (`config.xml`):
 
     <config>
-        <port>3025</port>
-        <rootPath>/var/www/html</rootPath>
-        <interactiveMode>true</interactiveMode>
+        <port>80</port>
         <routes>
             <route path="/" content="<h1>Welcome to the homepage</h1>" />
             <route path="/about" content="<h1>About Us</h1>" />
         </routes>
     </config>
 
-This example configures the server to listen on port 3025, set the root path to `/var/www/html`, enable interactive mode, and define two routes ("/" and "/about").
+This example configures the server to listen on port 80 and define two routes ("/" and "/about").
 
 To run the server with this configuration:
 
-    ./server config.xml
+    ./server
 
 Roadmap
 -------
@@ -97,7 +96,7 @@ Contributions are welcome! If you have suggestions, bug reports, or want to cont
 
 1.  Fork the Project
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+3.  Commit your Changes (`git commit -m 'Add an AmazingFeature'`)
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
 
