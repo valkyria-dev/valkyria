@@ -1,262 +1,213 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-<!--[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
--->
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/valkyria-dev/valkyria">
-    <img src="images/logo.svg" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Valkyria</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- Project Title -->
+  <title>Valkyria</title>
+</head>
+<body>
+  <!-- Project Logo and Name -->
+  <div align="center">
+    <a href="https://github.com/valkyria-dev/valkyria">
+      <img src="images/logo.svg" alt="Logo" width="80" height="80">
+    </a>
+
+    <h3 align="center">Valkyria</h3>
+
+    <!-- Project Description -->
+    <p align="center">
+      An XML-configurable HTTP server in C++ with a focus on simplicity and customization.
+      <br />
+      <a href="https://github.com/valkyria-dev/valkyria"><strong>Explore the docs »</strong></a>
+      <br />
+      <br />
+      <a href="https://github.com/valkyria-dev/valkyria">View Demo</a>
+      ·
+      <a href="https://github.com/valkyria-dev/valkyria/issues">Report Bug</a>
+      ·
+      <a href="https://github.com/valkyria-dev/valkyria/issues">Request Feature</a>
+    </p>
+  </div>
+
+  <!-- Table of Contents -->
+  <details>
+    <summary>Table of Contents</summary>
+    <ol>
+      <li>
+        <a href="#about-the-project">About The Project</a>
+        <ul>
+          <li><a href="#built-with">Built With</a></li>
+        </ul>
+      </li>
+      <li>
+        <a href="#getting-started">Getting Started</a>
+        <ul>
+          <li><a href="#prerequisites">Prerequisites</a></li>
+          <li><a href="#installation">Installation</a></li>
+        </ul>
+      </li>
+      <li><a href="#usage">Usage</a></li>
+      <li><a href="#roadmap">Roadmap</a></li>
+      <li><a href="#contributing">Contributing</a></li>
+      <li><a href="#license">License</a></li>
+      <li><a href="#contact">Contact</a></li>
+      <li><a href="#acknowledgments">Acknowledgments</a></li>
+    </ol>
+  </details>
+
+  <!-- About The Project Section -->
+  <section id="about-the-project">
+    <h2>About The Project</h2>
+    <p>
+      Valkyria is a simple HTTP server written in C++ that allows you to configure routes and settings using XML files. The server is designed with simplicity and ease of customization in mind. You can define routes, ports, root paths, and more without touching the C++ code.
+    </p>
+    <p>
+      Of course, this project is a starting point, and you are encouraged to modify it according to your needs.
+    </p>
+
+    <!-- Built With Section -->
+    <h3 id="built-with">Built With</h3>
+    <ul>
+      <li>C++</li>
+      <li>XML Configuration</li>
+    </ul>
+  </section>
+
+  <!-- Getting Started Section -->
+  <section id="getting-started">
+    <h2>Getting Started</h2>
+
+    <!-- Prerequisites Section -->
+    <h3 id="prerequisites">Prerequisites</h3>
+    <ul>
+      <li>C++ Compiler</li>
+      <li>Git</li>
+    </ul>
+
+    <!-- Installation Section -->
+    <h3 id="installation">Installation</h3>
+    <ol>
+      <li>
+        Clone the repo
+        <pre><code>git clone https://github.com/valkyria-dev/valkyria.git
+cd valkyria</code></pre>
+      </li>
+      <li>
+        Build the server
+        <pre><code>make</code></pre>
+      </li>
+      <li>
+        Run the server
+        <pre><code>./server</code></pre>
+      </li>
+    </ol>
+  </section>
+
+  <!-- Usage Section -->
+  <section id="usage">
+    <h2>Usage</h2>
+
+    <p>
+      Valkyria is configured using XML files. Below is an example XML configuration (<code>config.xml</code>):
+    </p>
+
+    <!-- Example XML Configuration -->
+    <pre><code>&lt;config&gt;
+    &lt;port&gt;3025&lt;/port&gt;
+    &lt;rootPath&gt;/var/www/html&lt;/rootPath&gt;
+    &lt;interactiveMode&gt;true&lt;/interactiveMode&gt;
+    &lt;routes&gt;
+        &lt;route path="/" content="&lt;h1&gt;Welcome to the homepage&lt;/h1&gt;" /&gt;
+        &lt;route path="/about" content="&lt;h1&gt;About Us&lt;/h1&gt;" /&gt;
+    &lt;/routes&gt;
+&lt;/config&gt;</code></pre>
+
+    <p>
+      This example configures the server to listen on port 3025, set the root path to <code>/var/www/html</code>, enable interactive mode, and define two routes ("/" and "/about").
+    </p>
+
+    <p>
+      To run the server with this configuration:
+    </p>
+
+    <pre><code>./server config.xml</code></pre>
+  </section>
+
+  <!-- Roadmap Section -->
+  <section id="roadmap">
+    <h2>Roadmap</h2>
+
+    <ul>
+      <li>XML-based configuration</li>
+      <li>Basic routing functionality</li>
+      <li>SSL/TLS support</li>
+      <li>Improved error handling</li>
+      <li>Support for additional HTTP methods</li>
+      <li>Multi-threading support</li>
+    </ul>
+
+    <p>
+      See the <a href="https://github.com/valkyria-dev/valkyria/issues">open issues</a> for a full list of proposed features and enhancements.
+    </p>
+  </section>
+
+  <!-- Contributing Section -->
+  <section id="contributing">
+    <h2>Contributing</h2>
+
+    <p>
+      Contributions are welcome! If you have suggestions, bug reports, or want to contribute code, please follow these steps:
+    </p>
+
+    <ol>
+      <li>Fork the Project</li>
+      <li>Create your Feature Branch (<code>git checkout -b feature/AmazingFeature</code>)</li>
+      <li>Commit your Changes (<code>git commit -m 'Add some AmazingFeature'</code>)</li>
+      <li>Push to the Branch (<code>git push origin feature/AmazingFeature</code>)</li>
+      <li>Open a Pull Request</li>
+    </ol>
+  </section>
+
+  <!-- License Section -->
+  <section id="license">
+    <h2>License</h2>
+    <p>
+      Distributed under the MIT License. See <code>LICENSE</code> for more information.
+    </p>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>
+      Valkyria Team - valkyria@example.com
+    </p>
+    <p>
+      Project Link: <a href="https://github.com/valkyria-dev/valkyria">https://github.com/valkyria-dev/valkyria</a>
+    </p>
+  </section>
+
+  <!-- Acknowledgments Section -->
+  <section id="acknowledgments">
+    <h2>Acknowledgments</h2>
+
+    <p>
+      Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+    </p>
+
+    <ul>
+      <li><a href="https://choosealicense.com">Choose an Open Source License</a></li>
+      <li><a href="https://www.webpagefx.com/tools/emoji-cheat-sheet">GitHub Emoji Cheat Sheet</a></li>
+      <li><a href="https://flexbox.malven.co/">Malven's Flexbox Cheatsheet</a></li>
+      <li><a href="https://grid.malven.co/">Malven's Grid Cheatsheet</a></li>
+      <li><a href="https://shields.io">Img Shields</a></li>
+      <li><a href="https://pages.github.com">GitHub Pages</a></li>
+      <li><a href="https://fontawesome.com">Font Awesome</a></li>
+      <li><a href="https://react-icons.github.io/react-icons/search">React Icons</a></li>
+    </ul>
+  </section>
+</body>
+</html>
