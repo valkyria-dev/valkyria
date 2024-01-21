@@ -1,3 +1,8 @@
+
+> [!WARNING]  
+> This project is in developement. Don't use it in production
+
+
 [![Logo](images/logo.svg)](https://github.com/valkyria-dev/valkyria)
 
 ### Valkyria
