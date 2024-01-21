@@ -1,0 +1,9 @@
+<config>
+    <port>3025</port>
+    <rootPath>/</rootPath>
+    <routes>
+        <route path="/" content="<h1>Welcome to the homepage</h1>" />
+        <route path="/about" content="<h1>About Us</h1>" />
+        <!-- Puedes agregar más rutas según sea necesario -->
+    </routes>
+</config>
