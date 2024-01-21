@@ -1,5 +1,3 @@
-   Valkyria
-
 [![Logo](images/logo.svg)](https://github.com/valkyria-dev/valkyria)
 
 ### Valkyria
